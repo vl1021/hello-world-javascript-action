@@ -5,4 +5,4 @@ inputs:
     description: "An example parameter"
 runs:
   using: "node12"
-  main: "action.js"
+  main: "actioon.js"
